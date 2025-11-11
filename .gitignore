@@ -13,3 +13,8 @@ Thumbs.db
 
 # Chrome extension
 extension/icons/
+
+
+# Environment files
+.env
+backend/.env
